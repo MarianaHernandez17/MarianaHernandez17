@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T12:21:56.420Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.5" etag="gVb4_vCIOP2ky2hrCTtA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T12:41:18.211Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="aC4odwjkQ36bW2ZKb0c2" version="22.1.5" type="github">
   <diagram name="Página-1" id="15oY_yjuwQJlQ9UC4hU0">
-    <mxGraphModel>
+    <mxGraphModel dx="1364" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-2" value="Lluvias de ideas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="355" y="47" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-3" value="iniciar sesion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="172" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-4" value="crear Alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="355" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-5" value="crear SE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="538" y="129" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-6" value="Modificar alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="172" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-7" value="crear direccion del alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="172" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-8" value="crear tira de materias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="538" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-9" value="crear promedio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="353" y="286" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-10" value="sacar numero de inscripcion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="538" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-11" value="Eliminar alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="353" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-12" value="Crear csv con datos del alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="172" y="366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-13" value="adjuntar las listas al codigo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="538" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-14" value="crear calculo del numero de lista" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-15" value="Analisis de afinidad" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="557" width="179" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-16" value="Administrativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="652" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-17" value="Sistema" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="332" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-18" value="Contabiliad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="509" y="652" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-19" value="Sacar numero de inscripcion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="512" y="728" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-20" value="crear SE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="339" y="728" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-21" value="iniciar sesion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="172" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-22" value="Modificar alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="172" y="803" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-23" value="crear promedio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="341" y="806" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-24" value="crear Alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="339" y="884" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-25" value="crear tira de materias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="176" y="881" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-26" value="Crear csv con datos del alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="176" y="963" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-27" value="adjuntar las listas al codigo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="509" y="808" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-28" value="crear calculo del numero de lista" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="341" y="967" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8nbh5r6E9Dp7A8QvpPS-29" value="crear direccion del alumno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1045" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
